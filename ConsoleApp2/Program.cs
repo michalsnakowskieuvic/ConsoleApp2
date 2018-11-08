@@ -15,6 +15,7 @@ namespace ConsoleApp2
             Console.WriteLine("Trzecie info");
             Console.WriteLine("Czwarte info");
             Console.WriteLine("Piąte info");
+            Console.WriteLine("Szóste info");
         }
     }
 }
