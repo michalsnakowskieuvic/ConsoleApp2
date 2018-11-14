@@ -18,6 +18,7 @@ namespace ConsoleApp2
             Console.WriteLine("Szóste info");
             Console.WriteLine("Siódme info");
             Console.WriteLine("Ósme info");
+            Console.WriteLine("999");
         }
     }
 }
